@@ -1,0 +1,18 @@
+SMAP
+AddDepartment_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddDepartment.jsp
+Admin/AddDepartment.jsp
++ 1 AdminHeader.jsp
+Admin/AdminHeader.jsp
++ 2 AdminFooter.jsp
+Admin/AdminFooter.jsp
+*L
+5,4:50
+5#1,314:53
+8#0,31:366
+5#2,20:396
+38#0:415
+*E
